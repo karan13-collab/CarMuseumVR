@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: 4f1859f2ea12cf84baf7d66a6a024330
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\scene.bin
+    assetPath: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\scene.bin
+  - type: 1
+    originalUri: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert33_occlusion.png
+    assetPath: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert33_occlusion.png
+  - type: 1
+    originalUri: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert20_specularGlossiness.jpeg
+    assetPath: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert20_specularGlossiness.jpeg
+  - type: 1
+    originalUri: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert35_specularGlossiness.jpeg
+    assetPath: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert35_specularGlossiness.jpeg
+  - type: 1
+    originalUri: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert31_diffuse.jpeg
+    assetPath: Assets\Scenes\vr_moody_lighting_art_gallery_scene_06\textures\lambert31_diffuse.jpeg
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_emissive_strength
